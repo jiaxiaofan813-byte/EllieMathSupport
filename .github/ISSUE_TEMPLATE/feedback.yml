@@ -1,0 +1,19 @@
+name: Parent feedback / 家长反馈
+description: Report a problem or suggest an improvement / 问题与建议
+title: "[Feedback] "
+body:
+  - type: markdown
+    attributes:
+      value: "Please submit as a parent or guardian. This report is public. Do not share children's names, photos, school details, parent PINs or other private information. 请由家长提交，不要填写孩子个人信息或家长 PIN。"
+  - type: textarea
+    id: details
+    attributes:
+      label: What happened, or what would you like improved? / 问题或建议
+      description: Describe the steps, expected result and actual result. / 可填写操作步骤、预期和实际结果。
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device, iOS version and EllieMath version / 设备与版本
+      placeholder: iPad, iPadOS 27.2, EllieMath 0.6.0
