@@ -5,6 +5,7 @@ Little steps. Big possibilities.
 EllieMath is an iPad-first math practice app, also available on iPhone. Build a daily habit with 25-question practice, explore 20 difficulty levels, use visual hints, and review progress together in the parent area. The app interface is in English. Chance Lab is in beta; the message board is coming soon.
 
 - [EllieMath website](https://jiaxiaofan813-byte.github.io/EllieMathSupport/)
+- [Privacy policy / 隐私政策](https://jiaxiaofan813-byte.github.io/EllieMathSupport/privacy.html)
 - [Help and frequently asked questions](https://jiaxiaofan813-byte.github.io/EllieMathSupport/support.html)
 - [Report a problem or suggest an improvement](https://github.com/jiaxiaofan813-byte/EllieMathSupport/issues/new/choose)
 
